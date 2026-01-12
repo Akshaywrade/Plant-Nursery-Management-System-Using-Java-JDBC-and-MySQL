@@ -29,25 +29,37 @@ Modules:
 Admin Module:
 
 • Add plant details
+
 • Update plant information
+
 • Delete plant records
+
 • View all plants
+
 User Module:
 
 • View available plants
+
 • Search plant by name
 
 Functional Requirements:
+
 • Add plant records
+
 • Display plant details
+
 • Update price and quantity
+
 • Delete plant data
+
 • Search plant information
 
 Technologies Used:
 
 • Programming Language: Java
+
 • Database: MySQL
+
 • Connectivity: JDBC
 
 Conclusion:
